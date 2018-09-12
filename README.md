@@ -2,7 +2,7 @@
 ## 互联网
 - **海康威视**
 1. 截止时间: 无(建议尽早投递)
-2. [人力资源专员](http://campus.hikvision.com/zpdetail/150161536?r=&p=1%5E19&c=3301&d=&k=)
+2. 推荐岗位：[人力资源专员](http://campus.hikvision.com/zpdetail/150161536?r=&p=1%5E19&c=3301&d=&k=)
 ## 教育
 ## 银行
 ## 其他
