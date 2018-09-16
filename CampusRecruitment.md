@@ -28,4 +28,8 @@
 1. 推荐岗位: [管培生](https://xiaoyuan.zhaopin.com/job/CC000911400J90000001000)
 2. 截止时间: 
 ## 电信
+- **浙江电信**
+1. 推荐岗位: [无](http://chinatelecom2019.51job.com/index.php)
+- **浙江移动**
+1. 推荐岗位: [无](http://companyadc.51job.com/companyads/2018/hz/yidongzj0823dd_7101wh/index.html)
 ## 其他
