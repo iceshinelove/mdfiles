@@ -3,7 +3,6 @@
 - **海康威视**
 1. 推荐岗位: [人力资源专员](http://campus.hikvision.com/zpdetail/150161536?r=&p=1%5E19&c=3301&d=&k=)
 2. 建议尽早投递
-3. 宣讲会: 
 - **咪咕**
 1. 推荐岗位: [内容拓展岗](http://www.migu.cn/about/join/graduate/job/0/5/0.html)
 - **蘑菇街**
