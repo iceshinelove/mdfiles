@@ -13,19 +13,19 @@
 2. 这家offer比较好拿 但是我没看到适合你的
 
 ## 教育
--- **学而思**
+- **学而思**
 1. 推荐岗位: [杭州分校](http://job.xueersi.cn/recruit.html)
 ## 银行
--- **招商银行**
+- **招商银行**
 1. 推荐岗位: [委托培训生](http://career.cloud.cmbchina.com/index.html#jobList?id=96574F8D-C7ED-4772-AE7C-BAC896D190C1)
 2. 截止时间:2018-10-01
--- **交通银行**
+- **交通银行**
 1. 推荐岗位: [管理培训生](https://job.bankcomm.com/getPositionById.do?positionId=26448）
 2. 截止时间:2018-10-09
--- **中国银行**
+- **中国银行**
 1. 推荐岗位: [管理培训生](http://campus.chinahr.com/2019/boc/jobs.html)
 2. 截止时间: 2018-10-16
--- **杭州银行**
+·- **杭州银行**
 1. 推荐岗位: [管培生](https://xiaoyuan.zhaopin.com/job/CC000911400J90000001000)
 2. 截止时间: 
 ## 电信
